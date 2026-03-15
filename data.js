@@ -4,8 +4,18 @@
 const SHEETS = [
   {
     institute: 'ИИЭСМ',
+    course: '1',
+    url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTxPkqUYwT0fiQH-gHaq3_DKcBMN3qevqHr6yGEY0jUBS172h7f0rTYIJqO8SlF66T0jYmlxT80Ybur/pub?gid=1696662954&single=true&output=csv'
+  },
+  {
+    institute: 'ИИЭСМ',
+    course: '2',
+    url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTxPkqUYwT0fiQH-gHaq3_DKcBMN3qevqHr6yGEY0jUBS172h7f0rTYIJqO8SlF66T0jYmlxT80Ybur/pub?gid=1199650785&single=true&output=csv'
+  },
+  {
+    institute: 'ИИЭСМ',
     course: '3',
-    url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRijVUKlx7IBt7fMbUAB-S2N7fMRF3HfHizSkQk15vIEZKy2N-0P_yEiECfNrCIlvM2d9hvqtR90TuV/pub?output=csv'
+    url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTxPkqUYwT0fiQH-gHaq3_DKcBMN3qevqHr6yGEY0jUBS172h7f0rTYIJqO8SlF66T0jYmlxT80Ybur/pub?gid=165363221&single=true&output=csv'
   },
   // Примеры для будущих листов — раскомментируй и вставь свой gid:
   // { institute: 'ИИЭСМ', course: '2', url: '...pub?output=csv&gid=XXXXXXX' },
